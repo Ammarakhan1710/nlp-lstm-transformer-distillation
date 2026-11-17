@@ -82,7 +82,6 @@ transformer.py                   position embedding, encoder/decoder blocks, Tra
 kd_loss.py                       TinyBERT distillation losses
 transformer_utils.py, utils.py, capita.py   helper code provided with the assignment
 figures/                         training curves and result plots
-report/                          full experiment report (PDF)
 ```
 
 ## How to run
@@ -91,6 +90,6 @@ report/                          full experiment report (PDF)
 3. Notebooks 1 and 2 need the course datasets, which are not included in this repository. Notebook 3 downloads BERT, Wikitext-2 and MRPC from Hugging Face automatically.
 
 ## Acknowledgements
-The assignment skeleton and helper code (`utils.py`, `transformer_utils.py`, `capita.py`) are based on the UC Berkeley CS182 Natural Language Processing homework, as provided in my course. The TODO implementations, training runs, experiments and report were completed for this assignment.
+The project skeleton and helper code (`utils.py`, `transformer_utils.py`, `capita.py`) are adapted from the UC Berkeley CS182 course materials on deep learning for NLP. The model implementations, training runs and experiments in this repository were completed by me.
 
 **Author:** Ammara Khan
