@@ -1,0 +1,8 @@
+torch
+numpy
+segtok
+sentencepiece
+tqdm
+transformers
+datasets
+matplotlib
